@@ -34,12 +34,13 @@ This uses the great [google-measurement-protocol](https://github.com/mirumee/goo
 
 MIT.
 
+# Author
+
 I hope you find this useful.
 
-cheers
-adam
---
-Adam Feuer
-Seattle, WA, USA
+cheers  
+adam  
+Adam Feuer  
+Seattle, WA, USA  
 
 
