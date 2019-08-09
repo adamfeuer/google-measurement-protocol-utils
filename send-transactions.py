@@ -7,8 +7,6 @@ import argparse
 from google_measurement_protocol import enhanced_item, enhanced_purchase, report
 from prices import Money
 
-#GOOGLE_ANALYTICS_ID = 'UA-13014811-1'
-
 def main():
     parser = argparse.ArgumentParser(description='Send ecommerce transactions to Google Analytics')
     parser.add_argument('--google-analytics-id', '-G', dest='google_analytics_id', default=None, help='Google Analytics ID')
