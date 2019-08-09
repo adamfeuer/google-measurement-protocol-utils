@@ -9,7 +9,7 @@ from prices import Money
 
 def main():
     parser = argparse.ArgumentParser(description='Send ecommerce transactions to Google Analytics')
-    parser.add_argument('--google-analytics-id', '-G', dest='google_analytics_id', default=None, help='Google Analytics ID')
+    parser.add_argument('--google-analytics-id', '-g', dest='google_analytics_id', default=None, help='Google Analytics ID')
     parser.add_argument('--input-file', '-i', type=argparse.FileType('r'))
 
     args = parser.parse_args()
