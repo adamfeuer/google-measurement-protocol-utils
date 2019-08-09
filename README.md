@@ -26,6 +26,9 @@ See the file `transactions.csv` file format, it should have a header row and the
 
 `client_id` should probably be the user's Google Analytics ID and is usually a UUID.
 
+Note that you will need to use the Google Analytics Real Time pages to see these transactions as you send them. 
+They won't appear in your regular Google Analytics numbers for 24 hours.
+
 
 # License
 
