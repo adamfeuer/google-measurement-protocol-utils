@@ -24,6 +24,8 @@ See the file `transactions.csv` file format, it should have a header row and the
 
 `client_id,transaction_id,product_name,product_price,product_quantity,transaction_amount`
 
+`client_id` should probably be the user's Google Analytics ID and is usually a UUID.
+
 
 # License
 
