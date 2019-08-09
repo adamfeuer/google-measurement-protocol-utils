@@ -27,7 +27,7 @@ See the file `transactions.csv` file format, it should have a header row and the
 
 # License
 
-MIT
+[MIT](https://opensource.org/licenses/MIT)
 
 # Credits
 
