@@ -25,16 +25,13 @@ See the file `transactions.csv` file format, it should have a header row and the
 `client_id,transaction_id,product_name,product_price,product_quantity,transaction_amount`
 
 
+# License
+
+MIT
+
 # Credits
 
 This uses the great [google-measurement-protocol](https://github.com/mirumee/google-measurement-protocol) library.
-
-
-# License
-
-MIT.
-
-# Author
 
 I hope you find this useful.
 
